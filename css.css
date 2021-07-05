@@ -1,0 +1,122 @@
+body
+{
+    background:radial-gradient(circle at top, lightyellow, transparent),
+               radial-gradient(circle,gold,transparent);
+  height:640px;
+
+}
+.gold
+{
+    margin-left:400px;
+}
+.page
+{
+    border-style: groove;
+    border-color: goldenrod;
+    margin-top:10px;
+    margin-left:200px;
+    height:400px;
+    width:1000px;
+}
+nav a {
+    text-decoration: none;
+    font-family: Calibri,sans-serif;
+    color: white;
+    background: #bf9f24;
+    padding: 12px;
+    border-radius: 15px;
+    margin: 15px;}
+nav
+{
+    margin-left:290px;
+    display:inline;
+    position: absolute;
+    margin-top:300px;
+}
+.rose {
+    height: 375px;
+    width: 200px;
+    margin-left: -105px;
+    display: inline-block;
+    margin-top:26px;
+    position: absolute;
+}
+.name
+{
+height:200px;
+    margin-top: 40px;
+    margin-left:50px;
+    position: absolute;
+    display: inline-block;
+}
+.page1
+{
+    border-style: groove;
+    border-color: goldenrod;
+    width:1100px;
+    height:560px;
+    margin-top:50px;
+    margin-left:120px;
+}
+.img
+{
+    height: 230px;
+    width:140px;
+    padding:25px;
+}
+.gal
+{
+    margin-left:70px;
+}
+.back a
+{
+    text-decoration: none;
+    font-family: Calibri,sans-serif;
+    color: white;
+    background: #bf9f24;
+    padding: 12px;
+    border-radius: 15px;
+    width:30px;
+    margin-top: -35px;
+}
+.page2
+{
+    border-style: groove;
+    border-color: goldenrod;
+    margin-top:150px;
+    margin-left:200px;
+    height:400px;
+    width:1000px;
+}
+.rose1
+{
+    margin-top:200px;
+    margin-left:-80px;
+    width:240px;
+    height: 230px;
+    position:absolute;
+    display: inline;
+
+}
+.page2 span
+{
+    color: #a7770e;
+    font-family: Calibri,sans-serif;
+    font-weight: bold;
+    margin-top:200px;
+    font-size:20px;
+}
+.page2 div
+{
+    margin-top: 150px;
+    display: inline-block;
+    margin-left: 180px;
+}
+.nav1
+{
+    margin-left: -700px;
+}
+.nav2
+{
+    margin-left:-320px;
+}
